@@ -1,0 +1,659 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true relation of the most terrible and dreadful tempest of thunder &amp; lightening, hail and rai[n] that ever yet was seen or heard in England Giving a faithful account of the vast losses, damages, and calamities sustaine[d] thereby in the towns of Hitchin, Offly, Eccleford, ... with several other villag[es] and market-towns in the counties of Harford, Bedfor[d,] Huntington, &amp;c ... To which is added, particular account of the sad and dismal disasters that happen'd at Potton in Bedfordshire, ... As also a particular relation of the great damages sustained by Sq; Harvey and others, in their houses, corn, cattle &amp;c. The whole communicated in a letter out of Hartfordshire, from Mr. I. Tord, to his son-in-law Mr Burchfield near the Blew-Coat at Bishopsgate Barrs. Note, the truth of this relation will be confirm'd by Mr. Nicholas Beaumont, at the sign of the Hand in Hand-Alle[y] ...</title>
+            <author>Tord, I.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62956</idno>
+            <idno type="STC">Wing T1909A</idno>
+            <idno type="STC">ESTC R220705</idno>
+            <idno type="EEBO-CITATION">99832097</idno>
+            <idno type="PROQUEST">99832097</idno>
+            <idno type="VID">36566</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36566)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2100:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true relation of the most terrible and dreadful tempest of thunder &amp; lightening, hail and rai[n] that ever yet was seen or heard in England Giving a faithful account of the vast losses, damages, and calamities sustaine[d] thereby in the towns of Hitchin, Offly, Eccleford, ... with several other villag[es] and market-towns in the counties of Harford, Bedfor[d,] Huntington, &amp;c ... To which is added, particular account of the sad and dismal disasters that happen'd at Potton in Bedfordshire, ... As also a particular relation of the great damages sustained by Sq; Harvey and others, in their houses, corn, cattle &amp;c. The whole communicated in a letter out of Hartfordshire, from Mr. I. Tord, to his son-in-law Mr Burchfield near the Blew-Coat at Bishopsgate Barrs. Note, the truth of this relation will be confirm'd by Mr. Nicholas Beaumont, at the sign of the Hand in Hand-Alle[y] ...</title>
+                  <author>Tord, I.</author>
+                  <author>Burchfield, Mr., recipient.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>peinted [sic] and sold by J. Wilkins, [ ]nd the green Dragon Tavern, in Fleet-street,</publisher>
+                  <pubPlace>[[Lo]ndon :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 2: True and particular account of the late terrible and dreadful stormm of hail, &amp;c.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Copy imperfect; closely cropped along outer margin with considerable loss of print; title and colophon mutilated.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Storms --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36566:1" rendition="simple:additions"/>
+            <pb facs="tcp:36566:1" rendition="simple:additions"/>
+            <p>A Full and True RELATION Of the moſt Terrible and Dreadful <hi>Tempeſt of Thunder &amp; Lightening, Hail and Rai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> That ever yet was ſeen or heard in <hi>England.</hi>
+            </p>
+            <p>Giving a Faithful Account <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the vaſt Loſſes, Damages, and Calamities ſuſtain<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> theirby in the Towns of <hi>Hitching Off<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Eccleford, Pott<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Clifton, Henl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Biggleſworth,</hi> with ſeveral other Villag<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Market-Towns in the Counties of <hi>Hartford, Bedfor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Huntington,</hi> &amp;c Wherein even Men have ſome by Ligh<g ref="char:EOLunhyphen"/>tening, and others by the Fury of the Hail been miſerab<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and ſuddenly ſlain, particularly one at <hi>Offley,</hi> whoſe Dea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Body by the force was driven three Miles towards a Tow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> called <hi>Hitchin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> nigh to which place three Horſes wer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taken up with Saddles, <hi>&amp;c.</hi> On their Backs, their Ride<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> having miſerably periſh'd by the Hail.</p>
+            <p>To which is added, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> particular Account of the ſad and diſmal Diſaſters that hap<g ref="char:EOLunhyphen"/>pen'd at <hi>Potton</hi> in <hi>Bedfordſhire,</hi> where the Lightening wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo extraordinary ſcorching, as to burn up the very greet Corn as it grew in the Fields, with this hightening circ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<g ref="char:EOLhyphen"/>ſtance of Wondert that one Acre ſhould be Burnt to the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old Clods, and the very next not in the leaſt touched A<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> alſo a particular Relation of the great Damages ſuſta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n'd by Sq. <hi>Harvey</hi> and others, in their Houſes, Corn, Cattle <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Whole communicated in a Letter out of <hi>Hartfordſhier</hi> from Mr. <hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Tord,</hi> to his Son-in-law Mr <hi>Burchfield</hi> near the <hi>Blew-Coat</hi> at <hi>Biſhopsgate</hi> Barrs</p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> The truth of this Relation will be Confirm'd by <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Mr Beaumont,</hi> at the sign of the <hi>Hand</hi> in <hi>Hand <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:36566:2"/>
+            <head>True and particular Account of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate terrible and dreadful Storm of Hail, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>I Having received the full Particulars of the enſuing dreadful Relation, not only from the aforeſaid Worthy Gentleman, but alſo from ſeveral other <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>berating Circumſtances, and being well ſatisfied with Truth thereof, as a ſubject worthy of our moſt ſerous <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſideration, I have carefully publiſh'd the ſame from the <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>inal Copy, which is as follows.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on <hi>William,</hi>
+                     </salute>
+                  </opener>
+                  <p>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> here ſend you a very dreadful and ſtrang Relati<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> from <hi>Hitching, Potton,</hi> and <hi>Offly,</hi> but indeed it <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot more ſtrang then true; for ſo it happen'd, that <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the <hi>Fourth</hi> of this Inſtant, about <hi>Three</hi> of the Clock <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Afternoon, at <hi>Offly,</hi> about <hi>Three</hi> Miles from <hi>ching,</hi> in the County of <hi>Hartford,</hi> there aroſe out <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Southweſt a very ſtrang dark Cloud and ſeve<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> other great dark Clouds aroſe from the Eaſt, and <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e from the Weſt and ſome North, meeting with <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fury as tho' they deſign'd to ruſh in Battel, break<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> out into moſt dreadful cracks of Thunder, and <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>es of great Lightening one againſt another, in an <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>uſual and ſtrang manner, being ſo very great in <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ny places that the very Houſes ſhook and totterd,
+<pb n="3" facs="tcp:36566:2"/>even where I was tho' I was not near the bigg<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Tempeſt by <hi>Five,</hi> or <hi>Six</hi> Miles.</p>
+                  <p>About <hi>Offley</hi> it began to be ſo very dreadful, the People began to be very ſorely affrighted, n<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ly with the Lightening, and Thunder, but alſo the greatneſs of the Hail, which came down in ſ<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> prodigious manner, that never the like was ſe<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> read of in this Kingdom, there fell, ſome as b<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Hen Eggs, ſome as big as Penny Loves, and ſome <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ger. Many People do affirm there were as big as <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Crown of a Hat, moſt of them in ſtrang ſhapes forms, much like pieces of thick Ice, which held <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>wring down for about half an Hour, in which <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> it cover'd the Eearth in ſeveral places <hi>Five,</hi> or <hi>Six</hi> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in Thickneſs, eſpecially on the Hills and dry ch<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>pion Ground notwithſtanding the Rain which <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with it</p>
+                  <p>It did much harm about <hi>Offley,</hi> one Man being an adjacent Field, was either kill'd by the Lightni<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> or knock'd on the Head by the Violence of the H<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> and Rain, by which his Body was driven away do<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Hills, and taken up near <hi>Hitching,</hi> after having flo<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ed near three Miles: There was alſo taken up t<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Saddle-Horſes, and an Horſe with a Pannel on <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Back, the Riders whereof, 'tis fear'd where kill'd <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Hail, tho their Perſons, perhaps covered w<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Earth, are not yet found; for the Ground being ve<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> dry, and the Storm ſuddain and violent, it was ov<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> flow'd in ſome places <hi>five</hi> or <hi>ſix</hi> Foot deep, to the Co<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſternation of the People of thoſe parts, it happeni<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> to be on the Market-Day, many were in the Mark<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb facs="tcp:36566:3"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſſing and repaſſing on the Road: I believe ſeveral, getting the Rain-bow, the Seal of God's Covenant <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>h <hi>Noah,</hi> expected nothing leſs than a Univerſal <hi>
+                        <gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>uge;</hi> the Hail was meaſur'd, and (when much waſt<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> ſome were <hi>Eight</hi> and others <hi>Ten</hi> Inches round: credibly reported that the weight of ſeveral were <hi>
+                        <gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>teen, ſixteen,</hi> and ſome <hi>twenty</hi> Ounces.</p>
+                  <p>One Man that was in the Field, tho in the very <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ts of the Storm, told me himſelf, that notwith<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ding he crept into a thick Hedge for ſhelter, yet a <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ſtone ſtruck through and hit him ſuch a blow as <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ded him for a long time, and he verily believed, <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>t the ſame Hailſtone would have beat his Brains <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, had he not been ſhelter'd by the Hedge.</p>
+                  <p>The Harm done at <hi>Hitching</hi> is very conſiderable, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I believe the whole is not as yet known; for it's <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>r'd there are more ſlain than are yet found out, <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thſtanding we have an account of ſeven perſons ſuddenly deſtroyed. <hi>From Lightening and Tempeſt; <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n Plague, Peſilence, and Famine, from Battle and <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>urder, and from Sudden Death,</hi> Good Lord deliver <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+                  <p>In <hi>Offley field</hi> or near it in the forenoon of the ſame <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, it is affirm'd, by ſeveral that ſaw it, that where <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>y had Plowed, and laid their Land upon Stich<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in the Afternoon the violence of the Hail had <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t all the Earth down again, and laid it as plain tho' it had not been Plow'd, but rowled with a wheven and plain to the great Aſtoniſhment of the <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>olders. Beſides the dreadful fright and Amaze<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nt the People were in, leſt their Houſes ſhould be
+<pb n="5" facs="tcp:36566:3"/>beat down on their Heads, (for their Tyles and W<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>dows were all ſhatter'd to pieces) there was alſo m<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Harm done by the Water in ſeveral Cellars, S<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> and Ware-houſes, ſome particular perſons hav<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> two-Hundred pounds worth of Harm done in than half an Hours time.</p>
+                  <p>This dreadful and Aſtoniſhing Tempeſt, with <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fury, paſſed from <hi>Hitching,</hi> where it left Hail, aforeſaid. <hi>Five</hi> Foot in Thickneſs, and ſo rais'd. Water in a ſhort time that no perſon could paſs, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> went over the Fields and came near to <hi>Clifton</hi> and <hi>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>ly</hi> in <hi>Bedfordſhire,</hi> and ſo towards <hi>Biggleſworth,</hi> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſo to <hi>Potton,</hi> another Market-Town, and from the down into <hi>Huntingtonſhire,</hi> where, for the preſe<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> we ſhall leave traceing it, and proceed to an ex<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Relation of the Loſs, damage, and Harm ſuſtain'd and about the Townſhip of <hi>Potton.</hi>
+                  </p>
+                  <p>And firſt, On the South-Weſt ſide of the To<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> there was Rye growing, a great deal whereof ev<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Green as it was entirely was conſum'd and Burnt <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> but what ſcap'd the fiery Lighiening, fell by the f<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> of the Hail, and was beat down beyond Hopes of a<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Recovery: But what is moſt aſtoniſhing is That <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> part of the Crop of a Field or Cloſe ſhould be deſtr<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>|'d, and the other not in the leaſt harm'd: One Ma<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Corn burnt up, another Man's beat flat to the Ea<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> and yet prehaps a Plat of Ground betwixt both <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ther on one Hand or the other in the leaſt wrong notwithſtanding the Corn in each was of eq<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> groth, But yet we cannot attribute this ſo wonder a Judgment to any thing of Sin more in one M<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb n="6" facs="tcp:36566:4"/>then another, if we remember what Chriſt told his <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſciples in the 13 of <hi>Luke,</hi> when ſome told him of <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Galileans</hi> Whoſe Blood <hi>Pilate</hi> had mingled with <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ir Sacrafice; <hi>Suppoſe ye</hi> (ſaid he) <hi>that thoſe</hi> Galile<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, <hi>were ſinners above all the</hi> Galilans, <hi>becaſe they ſuf<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>d ſuch things? I tell you, nay; but except ye repent, ye <gap reason="illegible" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>l all likewiſe periſh. Or thoſe Eighteen upon whom the <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>er of</hi> Siloam <hi>fell, and ſlew them, think ye they were <gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ners above all Men that dwelt in</hi> Jeruſalem? <hi>I tell <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> nay,</hi> &amp;c. I could heartily wiſh that thoſe princi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ly concerned, would look upon it as a Warning Repent, and that others wovld eſteem it as a <hi>Me<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nto</hi> not to be ungrateful to Heaven, which in Mer<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>has preſerv'd their Perſons and Subſtances from the <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>y, Miſery, and Calamity of ſo dreadful and ſud<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> a Judgment. <hi>Ingrato homine terre pejus nil creat</hi> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> very Heathens could ſay; but to be conciſe.</p>
+                  <p>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n the Town of <hi>Potton,</hi> as aforeſaid, ſo terrible and <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>ſterous was the Tempeſt that beſides ſeveral greatly <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>maged, two New Houſes were intirely levell'd with <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Ground; And indeed ſo ſtrange and wonderful <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s the Shower or rather Storm, that the People <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ld neither diſcern any thing that was above <hi>Two</hi> 
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>es off them, there was no intermiſſion of Drops, but <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Water power'd down like a River out of the Clouds <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>hout any ſeperation.</p>
+                  <p>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t <hi>Eccleford</hi> near <hi>Sandy,</hi> the Hail broke moſt part <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Tyles and Windows of a great Houſe, belong<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> to one Squire <hi>Harvies</hi> the reparation whereof <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a modeſt compution will coſt about a Hundred <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>nd.</p>
+                  <pb n="7" facs="tcp:36566:4"/>
+                  <p> Of any particular perſons in or about this Tow<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Killed I have no certain Account, yet there is ſeve<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> (more is the Pity) in the Borders of <hi>Huntingtonſhir<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Nor is the Loſs amongſt Cattel, of all ſorts, leſs th<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Damage in Corn: The whole being indeed wi<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>out any addition in reſpect both of the Thunder Light<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ing and Hail, even more dreadful and terrible th<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> can be well related, or eaſily conceived.</p>
+                  <p>Upon the whole I crave leave to obſerve, that this terible Judgment is little inferior in dread thoſe fearful ones executed, at ſeveral times on <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſinful and rebellions <hi>Iſraelites,</hi> obſtinate <hi>Pharoah</hi> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſo there is all reaſon imaginable to believe that t<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>dos, as thoſe did formerly, forebode and fore-r<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> ſomething very extraordinary: I could heartily wi<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> it would be every man's particular care and goo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> prudence (let his profeſſion be what it will) ſeriou<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> to examine whither this ſo very viſible Finger of G<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> is pointed out unto us, as a Tryal of our Faith, P<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>tience, <hi>&amp;c.</hi> or as a juſt reward for our hainous Sir and vile Iniquities; for my own part, I am veri<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> perſwaded; that <hi>now,</hi> even now, <hi>the Ax is laid un<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> the Root of the Tree; therefore every Tree that bringe not forth good Fruit, is hewn down, and caſt into the Fi<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi>
+                  </p>
+                  <p>
+                     <hi>Jehovah,</hi> like a tender hearted Father, deals wi<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> us, and happy were we would we but ſee it, he fi<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> allures and ſtrives to win us by Mercies and Favou<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and then upon refuſal, gently corrects, not furiouſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in rage and paſſion, but with a ſweet Mixture and a<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>lay of Mercy ſhews us the evil of our ways and fooliſ<g ref="char:EOLhyphen"/>neſs of our doings. Wo be unto us if we take n<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="8" facs="tcp:36566:5"/>note of theſe things, if we do not, then as the Scrip<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> ſays it will certainly be more tollerable for So<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd <hi>Gomorrah</hi> in the great day of the Lord than <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>s.</p>
+                  <p>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſum up the whole, and to prevent, as much <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> be, the world from being abuſed with falſe Re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>s I could not but think my ſelf obliged to de<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> that this before recited dreadful Relation con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> nothing but very matter of fact, as the ſame was <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>y abſtracted from the Original Letter ſent to Mr. <hi>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>field</hi> next door to the <hi>Blew-Coat</hi> in <hi>Biſhops-Gate-<gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> near the Barrs: which ſaid original Letter, for <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urther and better Satisfaction of ſuch as may be <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>tful of the truth hereof, is to be ſeen at Mr <hi>Ni<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> Beaumonts</hi> at the Sign of the <hi>Hand</hi> in <hi>Hand-Ally</hi> 
+                     <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>out <hi>Biſhops-Gate.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licended and Entered according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>NDON,</hi> Peinted and Sold by <hi>J. Wilkins,</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the green <hi>Dragon Tavern,</hi> in <hi>Fleet-ſtreet.</hi> 1697.</p>
+            <pb facs="tcp:36566:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
